@@ -1,20 +1,24 @@
-SYSTEM CLEANER
+# SYSTEM CLEANER
 
-SYSTEM REQUIREMNTS
+## SYSTEM REQUIREMENTS
 
 
-*This Project Run's on all Windows Operating System
+This program will run on all computers installed with the Windows Operating System.
+The features of the System Cleaner include: 
 
-This System Cleaner Feautres
+  - FAST-CLEAN-> Will Remove The Temp files
+  - Deep-Clean-> Will Remove The Temporary Internet Files (Setup Log Files) and Temporary Windows File 
+       - Deep-Clean Will Defrag the Drive for Efficient Disk space Management
 
-FAST-CLEAN-> Will Remove The Temp files
-Deep-Clean-> Will Remove The Temporary Internet Files (Setup Log Files) Temporary Windows Files
-and Deep-Clean Will Defrag Drive for Efficient Memory Management
+## About This Project
 
-About This Project
+Time taken to develop this project was approximately 1 day. 
 
-Duration -1-DAY
-LANGUAGE -BatchFile Language Converted to Executable Format
+### Technology Stack
+
+BatchFile Language Converted to Executable Format was adopted. 
+
+
 
 
 
